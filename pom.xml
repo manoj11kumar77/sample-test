@@ -35,8 +35,8 @@
 				<deploymentType>cloudhub</deploymentType>
 				 <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 				<muleVersion>3.9.1</muleVersion>
-				<username>manoj1111</username>
-				<password>Manoj1111</password>
+				<username>manoj111111</username>
+				<password>Manoj111111</password>
 				<redeploy>true</redeploy>
 				<environment>Sandbox</environment>
 			    </configuration>
